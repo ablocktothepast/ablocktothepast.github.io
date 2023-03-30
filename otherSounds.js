@@ -27,6 +27,5 @@ function reevzSound() {
     reevz.play();
 }
 
-function secret() {
-    window.open("secret.html", "_self")
-}
+
+
