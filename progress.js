@@ -38,6 +38,7 @@ function updateProgress() {
     let date_2 = new Date();
     let TotalDays = Math.ceil(Math.abs(date_1 - date_2) / (1000 * 3600 * 24));
     document.getElementById("projectAge").innerHTML = "Project age: "+TotalDays+" days"
+    document.getElementById("lastUpdate").innerHTML = "Last updated: "+data.date
 })
 .catch(error => console.error(error));
 }
