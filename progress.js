@@ -3,7 +3,6 @@ function updateProgress() {
     fetch('progress.json')
     .then(response => response.json())
     .then(data => {
-        console.log(data.enemiesMax)
         let enemiesMax = data.enemiesMax
         let enemiesDone = data.enemiesDone
         let bossesMax = data.bossesMax
