@@ -7,6 +7,7 @@ nav {
     border-bottom:4px black solid;
     background-image: url(assets/nav.png);
     background-size: contain;
+    overflow-x:scroll;
 }
 nav > a {
     margin: 0 5px;
