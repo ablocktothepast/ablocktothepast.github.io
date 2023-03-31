@@ -1,0 +1,14 @@
+{
+    "enemiesMax":131,
+    "enemiesDone":122,
+    "bossesMax":18,
+    "bossesDone":3,
+    "itemsMax":53,
+    "itemsDone":51,
+    "story":1,
+    "overworld":2,
+    "darkworld":0,
+    "dungeons":0,
+    "bonus":4,
+    "total":5
+}

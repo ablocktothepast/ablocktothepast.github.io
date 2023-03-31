@@ -1,19 +1,21 @@
 function updateProgress() {
     //FIND WAY TO PARSE PROGRESS VALUES AND ADD IT HERE
-
-    //REPLACE VALUES
-    let enemiesMax = 131
-    let enemiesDone = 122
-    let bossesMax = 18
-    let bossesDone = 3
-    let itemsMax = 53
-    let itemsDone = 51
-    let storyDone = 1
-    let overworldDone = 2
-    let darkworldDone = 0
-    let dungeonsDone = 0
-    let bonusDone = 4
-    let totalDone = 5
+    fetch('progress.json')
+    .then(response => response.json())
+    .then(data => {
+        console.log(data.enemiesMax)
+        let enemiesMax = data.enemiesMax
+        let enemiesDone = data.enemiesDone
+        let bossesMax = data.bossesMax
+        let bossesDone = data.bossesDone
+        let itemsMax = data.itemsMax
+        let itemsDone = data.itemsDone
+        let storyDone = data.story
+        let overworldDone = data.overworld
+        let darkworldDone = data.darkworld
+        let dungeonsDone = data.dungeons
+        let bonusDone = data.bonus
+        let totalDone = data.total
 
     let enemiesProcent = Math.round((enemiesDone/enemiesMax)*100)
     let bossesProcent = Math.round((bossesDone/bossesMax)*100)
@@ -36,6 +38,7 @@ function updateProgress() {
     let date_2 = new Date();
     let TotalDays = Math.ceil(Math.abs(date_1 - date_2) / (1000 * 3600 * 24));
     document.getElementById("projectAge").innerHTML = "Project age: "+TotalDays+" days"
+})
+.catch(error => console.error(error));
 }
-
 updateProgress()
