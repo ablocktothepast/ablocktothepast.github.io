@@ -1,5 +1,6 @@
 
 [
+{"date":"19-04-2023","contents":["Added stuff to Lanmolas","° Slightly optimized the code","° Added Coordinated Attack System (no attacks yet)","° Fixed bug where hitting Lanmolas would not do the right rotation of its body as response","° This boss is getting laggy (when there's 3 of them at once)"]},
 {"date":"16-04-2023","contents":["Added Mini-Moldorm","° Like boss variant, moves around while rotating randomly","° Has small chance to rotate towards the player","° Deals 1 heart of damage when touched","° Can be killed in a few hits","Added more attacks to Lanmolas","° Earthquakes","° Collision with other Lanmolas","° Rotates slightly when hit"]},
 {"date":"15-04-2023","contents":["Finished Lanmolas","° Faster in general","° Has an angry phase at the end where it always aims at you and deals more damage","° Displays slime particles dripping from its body","° Bounces off walls","° Spews painful rocks from the ground when exiting it"]},
 {"date":"14-04-2023","contents":["Added Lanmolas (Boss)","° I made it before, but it sucked so this is a complete overhaul","° Jumps in a random direction or at you from the ground","° Consists of 8 body segments that move on their own, each segment is 3x3 blocks large","° The boss has particles and sound effects, but no proper model yet"]},
