@@ -1,5 +1,6 @@
 
 [
+{"date":"26-04-2023","contents":["Added even more stuff to Lanmolas:","More code optimizations","Finished Tornado attack"]},
 {"date":"23-04-2023","contents":["Added more stuff to Lanmolas:","Heavily optimized code","Added Tornado attack","° Any amount of Lanmolas (up to three) will start spinning around the center, faster and faster, larger and larger radius, with a natural offset per body segment","° Meanwhile a tornado will be formed, starting tiny and growing large, after which it chases the player, becoming faster and faster, until it disappears","° If you are caught in it, you'll be flung upwards, damaged and your camera will shake/rotate"]},
 {"date":"19-04-2023","contents":["Added stuff to Lanmolas","° Slightly optimized the code","° Added Coordinated Attack System (no attacks yet)","° Fixed bug where hitting Lanmolas would not do the right rotation of its body as response","° This boss is getting laggy (when there's 3 of them at once)"]},
 {"date":"16-04-2023","contents":["Added Mini-Moldorm","° Like boss variant, moves around while rotating randomly","° Has small chance to rotate towards the player","° Deals 1 heart of damage when touched","° Can be killed in a few hits","Added more attacks to Lanmolas","° Earthquakes","° Collision with other Lanmolas","° Rotates slightly when hit"]},
