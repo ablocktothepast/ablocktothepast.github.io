@@ -1,5 +1,6 @@
 
 [
+{"date":"28-05-2023","contents":["Added models for Stalfos & Red Stalfos","Reworked Red Stalfos","° Jumps away when you get too close","° Can pretty much only be damaged when it's been cornered or 'walled'"]},
 {"date":"18-05-2023","contents":["Fixed bugs","° Arrows now work properly","Finished Lanmolas (for real)","° Added Sand Wave attack","° Added random attack choices and delays","° Fixed some Lanmolas bugs"]},
 {"date":"07-05-2023","contents":["Fixed bugs","° Crafting has been disabled","° Amethyst shard no longer has a missing texture","° Holding Q on the bombs now works and there is a 1 second cooldown between bomb usage","° If you have one rupee, the Rupee Pouch message now correctly says 'You have 1 rupee.' without an S.","° The Magical Boomerang's life steal mechanic no longer works on traps and invulnerable enemies, as well as their projectiles","° Fixed bug breaking Cane of Somaria due to optimizations","° Added an optimized way to get rid of lone hitbox mobs"]},
 {"date":"06-05-2023","contents":["Added heavy optimizations","° Replaced 3500 instances of entity selectors with their respective type","° Completely removed the old entity damaging system and replaced with /damage","° Some commands that were previously in tick function are now ran only once every few seconds using /schedule"]},
