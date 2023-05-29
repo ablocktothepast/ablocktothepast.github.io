@@ -1,6 +1,6 @@
 {
-    "enemiesMax":132,
-    "enemiesDone":123,
+    "enemiesMax":134,
+    "enemiesDone":125,
     "bossesMax":18,
     "bossesDone":3,
     "itemsMax":53,
@@ -11,5 +11,5 @@
     "dungeons":0,
     "bonus":4,
     "total":5,
-    "date":"April 16, 2023"
+    "date":"May 29, 2023"
 }
