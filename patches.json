@@ -1,5 +1,6 @@
 
 [
+{"date":"06-07-2023","contents":["Added model to Cannon","Came to the conclusion that I'll now be adding in models all the time while waiting for Reevz to finish Hyrule Castle"]},
 {"date":"30-06-2023","contents":["Finished Moldorm","Added Stalfos Knights boss","° Fully like in the game, but:","° Has a pounding attack that sends sand waves around the arena","° Very big","Fairies now emit light","Interaction now resets the pegasus boots timer","Smashing a stone Deadrock with a hammer kills it","Aligned custom sword models to fit in the player hand more like MC swords","Fixed the Fighter Sword's texture shadow being flipped"]},
 {"date":"27-06-2023","contents":["Redid Moldorm","° Proper placeholder models","° Segmented into different models","° Has a homing attack","° If it hits a stage pillar during its attack it will tumble over and reveal a weak spot","Redid Ball & Chain Trooper","° Remade every mechanic","° Added a placeholder model"]},
 {"date":"26-06-2023","contents":["Worked on Castle Guard","Added a new global system for item picking and throwing to replace the old seperate system"]},
