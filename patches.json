@@ -1,6 +1,7 @@
 
 [
-{"date":"17-07-2023","contents":["Added the custom quests system/menu with custom graphics, different quest types, a scrollable list, unlocking mechanics, descriptions"]},
+{"date":"23-07-2023","contents":["Fixed a lot of bugs","Going in water without Zora's Flippers now sends you back to the last ground you stood on","Added pot breaking and pot loot"]},
+{"date":"17-07-2023","contents":["Added the custom quests system/menu with custom graphics, different quest types, a scrollable list, unlocking mechanics, descriptions, map marking"]},
 {"date":"09-07-2023","contents":["Added SFX to Cannon","Fixed old Bubble code and added SFX","Redid Winder and added SFX","Added particles and SFX to ball"]},
 {"date":"06-07-2023","contents":["Added model to Cannon","Came to the conclusion that I'll now be adding in models all the time while waiting for Reevz to finish Hyrule Castle"]},
 {"date":"30-06-2023","contents":["Finished Moldorm","Added Armos Knights boss","° Fully like in the game, but:","° Has a pounding attack that sends sand waves around the arena","° Very big","Fairies now emit light","Interaction now resets the pegasus boots timer","Smashing a stone Deadrock with a hammer kills it","Aligned custom sword models to fit in the player hand more like MC swords","Fixed the Fighter Sword's texture shadow being flipped"]},
