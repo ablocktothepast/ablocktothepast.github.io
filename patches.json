@@ -1,5 +1,6 @@
 
 [
+{"date":"27-07-2023","contents":["Added pot breaking with the boomerang"]},
 {"date":"24-07-2023","contents":["Fixed bugs","Added models for Ball, Gargantuan Ball, Trap, Big Trap, Winder, Spark, Bubble"]},
 {"date":"23-07-2023","contents":["Fixed a lot of bugs","Going in water without Zora's Flippers now sends you back to the last ground you stood on","Added pot breaking and pot loot"]},
 {"date":"17-07-2023","contents":["Added the custom quests system/menu with custom graphics, different quest types, a scrollable list, unlocking mechanics, descriptions, map marking"]},
@@ -30,7 +31,7 @@
 {"date":"30-03-2023","contents":["Added model for Yomo Medusa","Fixed Yomo Medusa code","Added SFX to Yomo Medusa","Fixed Medusa code for wall and floor variant","Fixed Laser Eye so it now locks to the wall","Revamped old Guruguru Bar code"]},
 {"date":"26-03-2023","contents":["Fixed Super Bomb color","Super Bomb now follows you around, if you get too far away (it can't climb up ledges) it will activate. It can also be activated by sneaking near it.","Completely overhauled loot system:","° Now uses 7 prize packs assigned to different enemies","° Each prize pack scrolls through 8 different rewards","° Still a 50% chance of any loot dropping","Added loot to every enemy","The game now tracks seperate kill counts per enemy, as well as a total kill count"]},
 {"date":"25-03-2023","contents":["Added option to change dialogue speed (1-4)","Added 9 FOV/size options to the dialogue menu","Added a custom dialogue to select between these 9 FOV/size levels "]},
-{"date":"19-03-2023","contents":["Added Deadrock model"]},
+{"date":"19-03-2023","contents":["Added Deadrock model","Casper now has a crush on Cleo"]},
 {"date":"15-03-2023","contents":["Added Dialogue Response Selection to the dialogue system"]},
 {"date":"14-03-2023","contents":["Added the CUSTOM DIALOGUE SYSTEM","° Custom-coded website to generate pieces of dialogue with NPC, ID and text selection","° A custom GUI lock system in-game that displays the dialogue (animates in letter by letter with SFX), the NPC name and an indicator to go to the next piece of dialogue when it is finished","° You can right-click during dialogue animation to instantly make it finish, or right-click when it is finished to continue to the next one"]},
 {"date":"01-03-2023","contents":["Added both of Rope's models","Fixed a bug where the Magical Boomerang healing didn't work because /damage doesn't accept negative values, it is now hard-coded with /effect regeneration","Armor now has an effect on damage dealt to the player using commands:","° When you are wearing Blue Mail any damage applied to the player is shifted to 82.5% of that value instead","° When you are wearing Red Mail, any damage applied to the player is shifted to 66.66..% of that value instead","° If a damage of 6 is applied with Blue Mail, it will result in a damage of 5. If a damage of 6 is applied with Red Mail, it will result in a damage of 4. "]},
