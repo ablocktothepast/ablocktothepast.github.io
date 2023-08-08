@@ -1,5 +1,4 @@
 function updateProgress() {
-    //FIND WAY TO PARSE PROGRESS VALUES AND ADD IT HERE
     fetch('progress.json')
     .then(response => response.json())
     .then(data => {
@@ -14,7 +13,7 @@ function updateProgress() {
         let darkworldDone = data.darkworld
         let dungeonsDone = data.dungeons
         let bonusDone = data.bonus
-        let totalDone = data.total
+        let totalDone = (enemiesDone + bossesDone + itemsDone + storyDone + overworldDone + darkworldDone + dungeonsDone + bonusDone)/(enemiesMax + bossesMax + itemsMax + 500) * 100
 
     let enemiesProcent = Math.round((enemiesDone/enemiesMax)*100)
     let bossesProcent = Math.round((bossesDone/bossesMax)*100)

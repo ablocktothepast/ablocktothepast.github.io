@@ -1,6 +1,7 @@
 
 [
-{"date":"06-08-2023","contents":["Fixed special weapons menu bug","Fixed bugs related to magic cape and cane of byrna","Added Delta API for smooth player motion","Smoothed out Bumper launching"]},
+{"date":"07-08-2023","contents":["Updated map and pack to 1.20.2","Created enemy placement design"]},
+{"date":"06-08-2023","contents":["Fixed special weapons menu bug","Fixed bugs related to magic cape and cane of byrna","Added Delta API for smooth player motion","Smoothed out Bumper launching","Added fading to cutscenes","Added dungeon doors and dungeon door opening cutscene and animation"]},
 {"date":"27-07-2023","contents":["Added pot breaking with the boomerang"]},
 {"date":"24-07-2023","contents":["Fixed bugs","Added models for Ball, Gargantuan Ball, Trap, Big Trap, Winder, Spark, Bubble"]},
 {"date":"23-07-2023","contents":["Fixed a lot of bugs","Going in water without Zora's Flippers now sends you back to the last ground you stood on","Added pot breaking and pot loot"]},
