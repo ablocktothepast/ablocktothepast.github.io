@@ -107,6 +107,7 @@ h2 {
     height:20px;
     background:white;
     display:inline-block;
+    border:3px black groove;
 }
 
 .barbar {

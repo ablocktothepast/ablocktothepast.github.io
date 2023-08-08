@@ -8,12 +8,12 @@ function updateProgress() {
         let bossesDone = data.bossesDone
         let itemsMax = data.itemsMax
         let itemsDone = data.itemsDone
-        let storyDone = data.story
+        let gameplay = data.gameplay
         let overworldDone = data.overworld
         let darkworldDone = data.darkworld
         let dungeonsDone = data.dungeons
         let bonusDone = data.bonus
-        let totalDone = (enemiesDone + bossesDone + itemsDone + storyDone + overworldDone + darkworldDone + dungeonsDone + bonusDone)/(enemiesMax + bossesMax + itemsMax + 500) * 100
+        let totalDone = (enemiesDone + bossesDone + itemsDone + gameplay*10 + overworldDone + darkworldDone + dungeonsDone + bonusDone)/(enemiesMax + bossesMax + itemsMax + 1400) * 100
 
     let enemiesProcent = Math.round((enemiesDone/enemiesMax)*100)
     let bossesProcent = Math.round((bossesDone/bossesMax)*100)
@@ -25,7 +25,7 @@ function updateProgress() {
     document.getElementById("barbarBosses").style.width = bossesProcent*3+"px"
     document.getElementById("progItems").innerHTML = itemsDone+" of "+itemsMax
     document.getElementById("barbarItems").style.width = itemsProcent*3+"px"
-    document.getElementById("barbarStory").style.width = storyDone*3+"px"
+    document.getElementById("barbarStory").style.width = gameplay*3+"px"
     document.getElementById("barbarOverworld").style.width = overworldDone*3+"px"
     document.getElementById("barbarDarkworld").style.width = darkworldDone*3+"px"
     document.getElementById("barbarDungeons").style.width = dungeonsDone*3+"px"
@@ -35,7 +35,9 @@ function updateProgress() {
     let date_1 = new Date('01/01/2022');
     let date_2 = new Date();
     let TotalDays = Math.ceil(Math.abs(date_1 - date_2) / (1000 * 3600 * 24));
-    document.getElementById("projectAge").innerHTML = "Project age: "+TotalDays+" days"
+    let TotalYears = Math.floor(TotalDays/365)
+    TotalDays -= TotalYears*365
+    document.getElementById("projectAge").innerHTML = "Project age: "+TotalYears+" year, "+TotalDays+" days"
     document.getElementById("lastUpdate").innerHTML = "Last updated: "+data.date
 })
 .catch(error => console.error(error));
