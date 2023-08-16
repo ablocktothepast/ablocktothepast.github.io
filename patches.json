@@ -1,5 +1,7 @@
 
 [
+{"date":"16-08-2023","contents":["Added models for Slarok and Ropa","Redid some code for Slarok and Ropa","Removed rupee pouch right-clicking, it now has the amount in its name thanks to macro functions"]},
+{"date":"13-08-2023","contents":["Added tons of optimizations","Added skull model and holding","Redid Stal and added model","Stal has a 1/10 chance to spawn from skulls"]},
 {"date":"07-08-2023","contents":["Updated map and pack to 1.20.2","Created enemy placement design"]},
 {"date":"06-08-2023","contents":["Fixed special weapons menu bug","Fixed bugs related to magic cape and cane of byrna","Added Delta API for smooth player motion","Smoothed out Bumper launching","Added fading to cutscenes","Added dungeon doors and dungeon door opening cutscene and animation"]},
 {"date":"27-07-2023","contents":["Added pot breaking with the boomerang"]},
