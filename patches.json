@@ -1,5 +1,6 @@
 
 [
+{"date":"29-08-2023","contents":["Added texture for Slime","Added crawling, fading, shift input, and third-person mode to dialogue system","Now using macro functions for dialogue system IDs","Replaced all instances of random datapack with /random"]},
 {"date":"16-08-2023","contents":["Added models for Slarok and Ropa","Redid some code for Slarok and Ropa","Removed rupee pouch right-clicking, it now has the amount in its name thanks to macro functions"]},
 {"date":"13-08-2023","contents":["Added tons of optimizations","Added skull model and holding","Redid Stal and added model","Stal has a 1/10 chance to spawn from skulls"]},
 {"date":"07-08-2023","contents":["Updated map and pack to 1.20.2","Created enemy placement design"]},
