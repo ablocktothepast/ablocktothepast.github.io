@@ -36,9 +36,23 @@ function updateProgress() {
     let date_2 = new Date();
     let TotalDays = Math.ceil(Math.abs(date_1 - date_2) / (1000 * 3600 * 24));
     let TotalYears = Math.floor(TotalDays/365)
+    let TotalDaysSpent = TotalDays
     TotalDays -= TotalYears*365
     document.getElementById("projectAge").innerHTML = "Project age: "+TotalYears+" year, "+TotalDays+" days"
     document.getElementById("lastUpdate").innerHTML = "Last updated: "+data.date
+    let EstimateDays = Math.round(TotalDaysSpent * (100 / totalDone))
+    let date_estimate = addDays(date_1, EstimateDays)
+
+    function addDays(date, days) {
+        var result = new Date(date);
+        result.setDate(result.getDate() + days);
+        return result;
+    }
+    let months = ["January","February","March","April","May","June","July","August","September","October","November","December"]
+    const yy = date_estimate.getFullYear()
+    const mm = date_estimate.getMonth() + 1
+    const dd = date_estimate.getDate()
+    document.getElementById("projectEstimate").innerHTML = "Estimated completion date: "+months[mm-1] + ' ' + dd + ', ' + yy;
 })
 .catch(error => console.error(error));
 }
