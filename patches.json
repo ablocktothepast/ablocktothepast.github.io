@@ -1,5 +1,7 @@
 
 [
+{"date":"23-09-2023","contents":["Removed custom magic bar","Magic is now displayed on the exp bar","Added new shield models","Fire shield and mirror shield now take away 50% of damage caused by fire/lasers, and 100% when held up"]},
+{"date":"20-09-2023","contents":["Added custom bow to third-person mode","Added rolling with shift to third-person mode","Improved third-person wall collision near corners","Added auto-jumping to third-person mode","° When walking into a block","° When walking off a ledge","Added entirely custom gravity system to third-person mode"]},
 {"date":"06-09-2023","contents":["Heavily optimized third person damage raycasting"]},
 {"date":"03-09-2023","contents":["Removed drop shadow from magic bar actionbar using resource pack shaders","Started coding custom free-camera third-person mode for boss battles","Added custom crosshair system","10tick and 100tick now initiate when joining the world"]},
 {"date":"29-08-2023","contents":["Added texture for Slime","Added crawling, fading, shift input, and third-person mode to dialogue system","Now using macro functions for dialogue system IDs","Replaced all instances of random datapack with random command"]},
