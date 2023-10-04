@@ -1,5 +1,6 @@
 
 [
+{"date":"04-10-2023","contents":["Lamp now right-clickable to toggle lighting, sneak to light stuff on fire, both use magic","Adjustments to lamp lighting mechanic"]},
 {"date":"23-09-2023","contents":["Removed custom magic bar","Magic is now displayed on the exp bar","Added new shield models","Fire shield and mirror shield now take away 50% of damage caused by fire/lasers, and 100% when held up"]},
 {"date":"20-09-2023","contents":["Added custom bow to third-person mode","Added rolling with shift to third-person mode","Improved third-person wall collision near corners","Added auto-jumping to third-person mode","° When walking into a block","° When walking off a ledge","Added entirely custom gravity system to third-person mode"]},
 {"date":"06-09-2023","contents":["Heavily optimized third person damage raycasting"]},
