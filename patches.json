@@ -1,5 +1,6 @@
 
 [
+{"date":"14-10-2023","contents":["Added custom drowning system","° Standing in shallow water reduces breathing bar","° Deep water reduces it even more","° If the bar runs out you take damage and get sent back to land","° The bar regenerates when you are on solid ground again","° The bar's range can be upgraded with Zora Scales","° If the Blue Mail is equipped, there is no drowning"]},
 {"date":"08-10-2023","contents":["Added elemental arrows","° Fire","° Ice","Added bomb arrows","All of the different arrow types can be switched through by right-clicking the arrow item in the hotbar"]},
 {"date":"07-10-2023","contents":["Bomb item is now right-clickable instead of being thrown","Same goes for active bomb, which has been tweaked a bit as well"]},
 {"date":"04-10-2023","contents":["Lamp now right-clickable to toggle lighting, sneak to light stuff on fire, both use magic","Adjustments to lamp lighting mechanic"]},
