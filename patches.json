@@ -1,5 +1,6 @@
 
 [
+{"date":"22-10-2023","contents":["Added saving/loading system","° Can generate save code based on progress","° Can take save code and turn it back into in-game progress","° Will be used to transfer your progress between map versions/updates"]},
 {"date":"21-10-2023","contents":["Added overworld cluster system","° Read ABTTP code documentation for more information: https://docs.google.com/document/d/1Mh-ajK8bPwfXlHrz-ApV1B2ulI4IW5lDU_Q3H6gkVTg/view?usp=sharing"]},
 {"date":"16-10-2023","contents":["Fire/ice rod no longer play sound if magic is empty","All currently modeled enemies have working frozen states now","Added detection for 2-block-deep soft-lock locations that teleport you out if you fall in"]},
 {"date":"14-10-2023","contents":["Added custom drowning system","° Standing in shallow water reduces breathing bar","° Deep water reduces it even more","° If the bar runs out you take damage and get sent back to land","° The bar regenerates when you are on solid ground again","° The bar's range can be upgraded with Zora Scales","° If the Blue Mail is equipped, there is no drowning"]},
