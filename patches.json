@@ -1,5 +1,6 @@
 
 [
+{"date":"04-11-2023","contents":["Dialogue third-person transition is now fully smoothed"]},
 {"date":"03-11-2023","contents":["Minor tweaks to third-person mode","Loot can now be picked up in third-person mode","Rolling in third-person grants short i-frames to negate damage","Optimized transition to third-person dialogue"]},
 {"date":"27-10-2023","contents":["Reworked pegasus boots as magic-consuming, togglable speed boost","Added everything currently tracked to the save code system"]},
 {"date":"22-10-2023","contents":["Added saving/loading system","° Can generate save code based on progress","° Can take save code and turn it back into in-game progress","° Will be used to transfer your progress between map versions/updates"]},
