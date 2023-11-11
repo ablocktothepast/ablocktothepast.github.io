@@ -1,5 +1,6 @@
 
 [
+{"date":"11-11-2023","contents":["Had my birthday","Officially started coding gameplay","Fixed many bugs","Added option for hard-coded third-person dialogue spectator positions (mostly for small rooms)","Intro sequence has been created"]},
 {"date":"04-11-2023","contents":["Dialogue third-person transition is now fully smoothed"]},
 {"date":"03-11-2023","contents":["Minor tweaks to third-person mode","Loot can now be picked up in third-person mode","Rolling in third-person grants short i-frames to negate damage","Optimized transition to third-person dialogue"]},
 {"date":"27-10-2023","contents":["Reworked pegasus boots as magic-consuming, togglable speed boost","Added everything currently tracked to the save code system"]},
