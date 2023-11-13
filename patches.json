@@ -1,5 +1,7 @@
 
 [
+{"date":"13-11-2023","contents":["Added Owen NPC","Added custom NPC names to dialogue system and generator"]},
+{"date":"12-11-2023","contents":["Worked on first part of game","Fixed many bugs"]},
 {"date":"11-11-2023","contents":["Had my birthday","Officially started coding gameplay","Fixed many bugs","Added option for hard-coded third-person dialogue spectator positions (mostly for small rooms)","Intro sequence has been created"]},
 {"date":"04-11-2023","contents":["Dialogue third-person transition is now fully smoothed"]},
 {"date":"03-11-2023","contents":["Minor tweaks to third-person mode","Loot can now be picked up in third-person mode","Rolling in third-person grants short i-frames to negate damage","Optimized transition to third-person dialogue"]},
