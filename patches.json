@@ -1,5 +1,6 @@
 
 [
+{"date":"14-11-2023","contents":["Dialogue system third-person now uses sneaking instead of crawling, better transition"]},
 {"date":"13-11-2023","contents":["Added Owen NPC","Added custom NPC names to dialogue system and generator"]},
 {"date":"12-11-2023","contents":["Worked on first part of game","Fixed many bugs"]},
 {"date":"11-11-2023","contents":["Had my birthday","Officially started coding gameplay","Fixed many bugs","Added option for hard-coded third-person dialogue spectator positions (mostly for small rooms)","Intro sequence has been created"]},
