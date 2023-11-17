@@ -1,5 +1,6 @@
 
 [
+{"date":"17-11-2023","contents":["Added Owen dialogue and first quest finishing","Fixed lots of buggies"]},
 {"date":"14-11-2023","contents":["Dialogue system third-person now uses sneaking instead of crawling, better transition"]},
 {"date":"13-11-2023","contents":["Added Owen NPC","Added custom NPC names to dialogue system and generator"]},
 {"date":"12-11-2023","contents":["Worked on first part of game","Fixed many bugs"]},
