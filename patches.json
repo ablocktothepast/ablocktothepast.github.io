@@ -1,5 +1,6 @@
 
 [
+{"date":"18-11-2023","contents":["Finished apple quest","Added Bernard quest and first hiding spot","Fixed bugs!"]},
 {"date":"17-11-2023","contents":["Added Owen dialogue and first quest finishing","Fixed lots of buggies"]},
 {"date":"14-11-2023","contents":["Dialogue system third-person now uses sneaking instead of crawling, better transition"]},
 {"date":"13-11-2023","contents":["Added Owen NPC","Added custom NPC names to dialogue system and generator"]},
