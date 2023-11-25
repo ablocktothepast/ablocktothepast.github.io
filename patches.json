@@ -1,5 +1,7 @@
 
 [
+{"date":"25-11-2023","contents":["NPC interactions no longer trigger when closing quest menu","Re-added old magic bar, but it's actually a bar now"]},
+{"date":"22-11-2023","contents":["Finished hide and seek quest","Fixed bugs"]},
 {"date":"18-11-2023","contents":["Finished apple quest","Added Bernard quest and first hiding spot","Fixed bugs!"]},
 {"date":"17-11-2023","contents":["Added Owen dialogue and first quest finishing","Fixed lots of buggies"]},
 {"date":"14-11-2023","contents":["Dialogue system third-person now uses sneaking instead of crawling, better transition"]},
