@@ -1,5 +1,10 @@
 
 [
+{"date":"15-12-2023","contents":["Added time of day changes","Fixed bugs","Added new town map version","Finished muck task from second task batch","Second task batch finished","Added Mucky Spider enemy"]},
+{"date":"15-12-2023","contents":["Finished cat task from second task batch"]},
+{"date":"13-12-2023","contents":["Started adding cat task"]},
+{"date":"10-12-2023","contents":["Fixed bugs","Added second task batch dialogue"]}, 
+{"date":"09-12-2023","contents":["Fixed bugs","Finished third task of first task batch"]}, 
 {"date":"03-12-2023","contents":["Fixed bugs","Finished second task of first task batch","Added NPC pathing system","Fixed third-person dialogue perspective bug"]},
 {"date":"02-12-2023","contents":["Fixed bugs","Finished first task of first task batch","Added big magic chest","Fixed chests not displaying items","Added option for first-person dialogue"]},
 {"date":"26-11-2023","contents":["Added first task batch choices","Added first task batch quests","Added more dialogue"]},
