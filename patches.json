@@ -1,5 +1,7 @@
 
 [
+{"date":"27-12-2023","contents":["Added carpets to gothrough tag","Added cobweb raycasting for interaction enabling","Fixed bugs"]},
+{"date":"26-12-2023","contents":["Fixed bugs"]},
 {"date":"25-12-2023","contents":["Using lamp in Melissa cellar now clears blindness","Melissa cellar now has a locked door","You can no longer jump off the bell tower","Added cobwebs to Melissa cellar","Cat task cutscenes are now in spectator mode","Uncle name in dialogue is now 'Uncle Alphon'","Uncle no longer asks you to swim up waterfall to reach cat, but to parkour","NPC spider dialogue is now less dramatic","Time of day changes are now evenly distributed and smoother"]},
 {"date":"24-12-2023","contents":["Finished better intro sequence"]},
 {"date":"23-12-2023","contents":["Removed uncle name from opening dialogue","Coded better intro","Added door system","Added interior and exterior system","Added ambience sounds for interior and exterior"]},
