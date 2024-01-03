@@ -1,5 +1,11 @@
 
 [
+{"date":"03-01-2024","contents":["Transferred everything to full open world map","Animated Thaddeus' task and added more checkpoints and different goal","Fixed bugs"]},
+{"date":"02-01-2024","contents":["Finished animating hide and seek task","Added more uncle animations","Animated Erin","Animated Melissa","Melissa now guides you to the cellar","Fixed first-person dialogue","First-person dialogue now also uses minecart"]},
+{"date":"01-01-2024","contents":["Animated parts of hide and seek task"]},
+{"date":"31-12-2023","contents":["Added animation toggle system","Added uncle idle animation","Fixed opening cutscene","Added apple basket model and animation","Animated everything up until hide and seek task"]},
+{"date":"29-12-2023","contents":["Redid dialogue transition with minecarts"]},
+{"date":"28-12-2023","contents":["Imported all animations","Optimized enemy projectiles","Added Link waking up animation"]},
 {"date":"27-12-2023","contents":["Added carpets to gothrough tag","Added cobweb raycasting for interaction enabling","Fixed bugs"]},
 {"date":"26-12-2023","contents":["Fixed bugs"]},
 {"date":"25-12-2023","contents":["Using lamp in Melissa cellar now clears blindness","Melissa cellar now has a locked door","You can no longer jump off the bell tower","Added cobwebs to Melissa cellar","Cat task cutscenes are now in spectator mode","Uncle name in dialogue is now 'Uncle Alphon'","Uncle no longer asks you to swim up waterfall to reach cat, but to parkour","NPC spider dialogue is now less dramatic","Time of day changes are now evenly distributed and smoother"]},
