@@ -1,5 +1,6 @@
 
 [
+{"date":"03-01-2024","contents":["Added chasing wolves to Thaddeus' race","Added animations for Bertram, Percival, Amara, Fiona, and Lysander","Animated entire quiz with new angles","Fixed bugs","Amara walks home after quiz","Updated Amara interactions","Updated Elowen dialogue for Amara coming home earlier","Bertram walks home after second task batch now"]},
 {"date":"03-01-2024","contents":["Transferred everything to full open world map","Animated Thaddeus' task and added more checkpoints and different goal","Fixed bugs"]},
 {"date":"02-01-2024","contents":["Finished animating hide and seek task","Added more uncle animations","Animated Erin","Animated Melissa","Melissa now guides you to the cellar","Fixed first-person dialogue","First-person dialogue now also uses minecart"]},
 {"date":"01-01-2024","contents":["Animated parts of hide and seek task"]},
