@@ -1,6 +1,6 @@
 
 [
-{"date":"13-01-2024","contents":["Modified quests menu button","° In hotbar now with right-clicking","° Renamed to Quest Book","° Has a book texture now"]},
+{"date":"13-01-2024","contents":["Modified quests menu button","° In hotbar now with right-clicking","° Renamed to Quest Book","° Has a book texture now","Uncle does not mark Owen house on map","Quest additions, updates and completions are now notified via a bossbar message"]},
 {"date":"07-01-2024","contents":["Fixed fov init bug","Owen tells you to go back to uncle","NPCs animate in opening cutscene now","Lamp no longer used when opening a chest","Neal now stops sleeping if he is found last","FOV menu more clear now"]},
 {"date":"06-01-2024","contents":["Animated Agatha and her task","Animated muck task","Fixed bugs","Animated Tristan","Tristan is now at swing until after first task batch","Added hard-coded dialogue positions for every single dialogue","Animated Seraphina","Animated Elowen","Animated Gareth","Animated Eamon","Animated Cedric","Animated Alden","Added secret room in hollow log with locked door","Added heart piece in hollow log secret room","Dialogue transitions now go from fast to slow","Fixed some buggies"]},
 {"date":"04-01-2024","contents":["Added chasing wolves to Thaddeus' race","Added animations for Bertram, Percival, Amara, Fiona, and Lysander","Animated entire quiz with new angles","Fixed bugs","Amara walks home after quiz","Updated Amara interactions","Updated Elowen dialogue for Amara coming home earlier","Bertram walks home after second task batch now"]},
