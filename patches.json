@@ -1,5 +1,6 @@
 
 [
+{"date":"17-01-2024","contents":["Fixed more camera angles","Fixed bugs"]},
 {"date":"16-01-2024","contents":["Updated to new map","Fixed many bugs","Fixed perspectives up until before knowledge task"]},
 {"date":"14-01-2024","contents":["Started redoing angles with better perspectives","Fixed dialogue transition height and speed","Fixed Link dialogue animation and TPS consumption","Fixed bugs"]},
 {"date":"13-01-2024","contents":["Modified quests menu button","° In hotbar now with right-clicking","° Renamed to Quest Book","° Has a book texture now","Uncle does not mark Owen house on map","Quest additions, updates and completions are now notified via a bossbar message"]},
