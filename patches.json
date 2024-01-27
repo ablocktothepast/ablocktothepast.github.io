@@ -1,5 +1,6 @@
 
 [
+{"date":"27-01-2024","contents":["Drowning meter goes down in waterlogged blocks","Quest menu controls change dynamically","Fixed bugs"]},
 {"date":"24-01-2024","contents":["Wolf launch strength is lower now","You can no longer take stuff from armor stands","Mucky spiders now tp into void instead of dying","Dialogue controls for switching options now only show during choice dialogue","Fixed many bugs"]},
 {"date":"22-01-2024","contents":["Quest menu now only openable after getting first task, same for different tabs","Fixed bugs"]},
 {"date":"21-01-2024","contents":["Opened every fence gate and non-interactable door","Quest menu now defaults to main quests tab","Increased ending speed of dialogue transition","Thaddeus end animation fixed","Quiz reactions now have a delay","Player now sits on bed after intro and needs to press shift","Added dog interactions","Erin dynamic dialogue now works properly","Day time progression is now natural and fixed","Fixed mipmaps","Added proper quest sound","Fixed bugs"]},
