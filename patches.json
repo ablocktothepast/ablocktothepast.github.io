@@ -1,5 +1,6 @@
 
 [
+{"date":"28-01-2024","contents":["Proper spawnpoint is now set","Fixed many bugs"]},
 {"date":"27-01-2024","contents":["Drowning meter goes down in waterlogged blocks","Quest menu controls change dynamically","Fixed bugs"]},
 {"date":"24-01-2024","contents":["Wolf launch strength is lower now","You can no longer take stuff from armor stands","Mucky spiders now tp into void instead of dying","Dialogue controls for switching options now only show during choice dialogue","Fixed many bugs"]},
 {"date":"22-01-2024","contents":["Quest menu now only openable after getting first task, same for different tabs","Fixed bugs"]},
