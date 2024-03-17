@@ -1,5 +1,6 @@
 
 [
+{"date":"17-03-2024","contents":["Added all alignments for every menu and switching","° Only their functionality is left","Fixed bugs"]},
 {"date":"16-03-2024","contents":["Started coding new big item menu","° Added background and selector","° Adding WASD detection for moving selector"]},
 {"date":"10-03-2024","contents":["Imported new quest menu look"]},
 {"date":"31-01-2024","contents":["Fixed bugs"]},
