@@ -1,5 +1,7 @@
 
 [
+{"date":"20-03-2024","contents":["Worked on big item menu","° Added black bars to top and bottom","° Moved controls down","° Perfected inventory alignment","° Reworked hotbar buttons and added inventory hotbar button"]},
+{"date":"18-03-2024","contents":["Worked on big item menu"]},
 {"date":"17-03-2024","contents":["Added all alignments for every menu and switching","° Only their functionality is left","Fixed bugs"]},
 {"date":"16-03-2024","contents":["Started coding new big item menu","° Added background and selector","° Adding WASD detection for moving selector"]},
 {"date":"10-03-2024","contents":["Imported new quest menu look"]},
