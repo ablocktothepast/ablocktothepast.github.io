@@ -1,0 +1,31 @@
+p, h1, h2, h3, h4 {
+    text-align:center;
+}
+
+h2 {
+    margin-top:-30px;
+}
+
+@font-face {
+    font-family: Diogenes;
+    src: url(assets/DIOGENES.ttf);
+}
+
+* {
+    font-family:Diogenes;
+}
+
+.audios {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+body {
+    background-image: url(assets/papyrus.jpg);
+}
+
+#text {
+    font-size:20px;
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Griekse avond muziek</title>
+    <link rel="stylesheet" href="style_grieks.css">
+</head>
+<body>
+    <h1>Griekse codekraker op de Griekse avond</h1>
+    <h2>Lesbos</h2>
+    <p>Beluister deze drie fragmenten aandachtig...<br>Welk fragment is een echte oud-Griekse klassieker?</p>
+    <div class="audios">
+        <audio controls id="audio2">
+            <source src="assets/song2.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+        <button id="answer2" style="visibility:hidden" onclick="doclick(2)"><p>Dit is de klassieker!</p></button>
+    </div>
+    <div class="audios">
+        <audio controls id="audio1">
+            <source src="assets/song1.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+        <button id="answer1" style="visibility:hidden" onclick="doclick(1)"><p>Dit is de klassieker!</p></button>
+        </div>
+    <div class="audios">
+        <audio controls id="audio3">
+            <source src="assets/song3.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+        <button id="answer3" style="visibility:hidden" onclick="doclick(3)"><p>Dit is de klassieker!</p></button>
+    </div>
+    <p id="text" style="visibility:hidden">Laat ons weten dat je klaar bent, dan krijg je de volgende opdracht!</p>
+    <script>
+        // Total number of audio elements
+        const totalAudioElements = 3;
+        
+        // Counter to track played audio elements
+        let playedAudioCount = 0;
+        
+        // Function to check if all audio elements have been played
+        function checkAllAudiosPlayed() {
+          if (playedAudioCount === totalAudioElements) {
+            console.log("All audio elements have been played.");
+            document.getElementById("answer1").style.visibility = "visible";
+            document.getElementById("answer2").style.visibility = "visible";
+            document.getElementById("answer3").style.visibility = "visible";
+          }
+        }
+        function doclick(number) {
+            if (number == 1) {
+                document.getElementById("answer1").innerHTML = "<p>Goed gedaan!</p>"
+                document.getElementById("answer1").style.background = "lightgreen"
+                document.getElementById("text").style.visibility = "visible"
+
+            }
+            if (number == 2) {
+                document.getElementById("answer2").innerHTML = "<p>Dat is fout!</p>"
+                document.getElementById("answer2").style.background = "red"
+            }
+            if (number == 3) {
+                document.getElementById("answer3").innerHTML = "<p>Dat is fout!</p>"
+                document.getElementById("answer3").style.background = "red"
+            }
+        }
+        
+        // Function to handle when an audio element starts playing
+        function handleAudioPlay() {
+          playedAudioCount++;
+          checkAllAudiosPlayed();
+        }
+        
+        // Add event listeners to each audio element to track when they start playing
+        document.getElementById("audio1").addEventListener("play", handleAudioPlay);
+        document.getElementById("audio2").addEventListener("play", handleAudioPlay);
+        document.getElementById("audio3").addEventListener("play", handleAudioPlay);
+        </script>
+</body>
+</html>

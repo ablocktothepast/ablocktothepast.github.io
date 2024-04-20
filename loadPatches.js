@@ -2,6 +2,7 @@ fetch('patches.json')
     .then(response => response.json())
     .then(data => {
         // Loop through each item in the array
+        var patchAmount = 0
         data.forEach(item => {
         // Do something with each item
         const divvy = document.createElement("div")
@@ -23,6 +24,8 @@ fetch('patches.json')
         divvy.appendChild(patchDate)
         divvy.appendChild(patchText)
         document.getElementById("patchnotes").appendChild(divvy)
+        patchAmount++
     });
+    document.getElementById("desc").innerHTML = "Whenever we work on the project, our changes will be noted here. This way, you can keep up with what we're working on and make sure we're still alive. There have been a total of <b>"+patchAmount+"</b> patches."
 })
 .catch(error => console.error(error));
