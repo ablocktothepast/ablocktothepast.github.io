@@ -1,5 +1,6 @@
 
 [
+{"date":"01-05-2024","contents":["Worked on big item menu","° Completely added keys menu using data compounds"]},
 {"date":"21-04-2024","contents":["Worked on big item menu","° Added indicators for selected items","° Fixed menu switching and remnants of inventory there"]},
 {"date":"31-03-2024","contents":["Added bottle system and mechanics","Updated usage of bottled items","Updated big item menu","° Completely implemented bottle pinning","° Added shovel pinning","Fixed bugs"]},
 {"date":"30-03-2024","contents":["Updated big item menu","° Completely implemented bomb pinning","° Added shovel pinning","Fixed bomb bugs"]},
