@@ -1,5 +1,7 @@
 
 [
+{"date":"24-05-2024","contents":["Completely overhauled quests system back-end","° Now works with data clusters, not scoreboards","° Only title, description, and texture is hard-coded","° No more having to create a new scoreboard objective for each quest","° Probably cleaner and more optimized","° Automatic completed quest sorting"]},
+{"date":"20-05-2024","contents":["Fixed mixed pendants colors","Worked on big item menu","° Added equipment menu icons"]},
 {"date":"04-05-2024","contents":["Worked on big item menu","° Added adventure status submenu","° Pendants, crystals, heart pieces"]},
 {"date":"01-05-2024","contents":["Worked on big item menu","° Completely added keys menu using data compounds"]},
 {"date":"21-04-2024","contents":["Worked on big item menu","° Added indicators for selected items","° Fixed menu switching and remnants of inventory there"]},
