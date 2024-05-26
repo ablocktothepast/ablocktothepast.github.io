@@ -1,5 +1,6 @@
 
 [
+{"date":"26-05-2024","contents":["Fixed dialogue bars texture","Quest menu fixes with new system","° Adding quests works again","° Updating quests works again","° Quest book now has to be unlocked, given by uncle with first task","° As a result, you can no longer open an empty quest book","Fixed uncle placing apple basket too early","Save system updated for all new values and quest saving"]},
 {"date":"24-05-2024","contents":["Completely overhauled quests system back-end","° Now works with data clusters, not scoreboards","° Only title, description, and texture is hard-coded","° No more having to create a new scoreboard objective for each quest","° Probably cleaner and more optimized","° Automatic completed quest sorting"]},
 {"date":"20-05-2024","contents":["Fixed mixed pendants colors","Worked on big item menu","° Added equipment menu icons"]},
 {"date":"04-05-2024","contents":["Worked on big item menu","° Added adventure status submenu","° Pendants, crystals, heart pieces"]},
