@@ -1,5 +1,6 @@
 
 [
+{"date":"23-08-2024","contents":["Converted some item NBT to 1.21","° Reached the 'gameplay_impulse' folder"]},
 {"date":"22-08-2024","contents":["Resurrected the map developer","Moved to new map version","Updated to 1.21","° All item NBT still left to upgrade due to Mojang's stupid changes"]},
 {"date":"02-06-2024","contents":["Drowning bar now works like magic bar","° If underwater, the magic bar is replaced by the new bar"]},
 {"date":"26-05-2024","contents":["Fixed dialogue bars texture","Quest menu fixes with new system","° Adding quests works again","° Updating quests works again","° Quest book now has to be unlocked, given by uncle with first task","° As a result, you can no longer open an empty quest book","Fixed uncle placing apple basket too early","Save system updated for all new values and quest saving"]},
