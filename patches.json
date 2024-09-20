@@ -1,5 +1,6 @@
 
 [
+{"date":"20-09-2024","contents":["Imported new textures","Added rupee pouch tiers","° With upgradable capacity for rupees","Added quiver","° Arrow and bow mechanic reworked","° Quiver tiers with upgradable capacity","° Switching between arrow types","° New textures"]},
 {"date":"25-08-2024","contents":["Converted some item NBT to 1.21","° Finished it all","Fixed a bug where quitting the adventure status menu did not hide UI","Fixed other bugs related to 1.21 conversion","Most enemies and items fully work again"]},
 {"date":"24-08-2024","contents":["Converted some item NBT to 1.21","° Reached the 'spw' folder"]},
 {"date":"23-08-2024","contents":["Converted some item NBT to 1.21","° Reached the 'gameplay_impulse' folder"]},
