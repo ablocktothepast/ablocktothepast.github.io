@@ -1,5 +1,6 @@
 
 [
+{"date":"06-10-2024","contents":["Fixed a bug where bomb throwing did not work","Removed bug-catching net","Renamed the Magic Hammer to Megaton Hammer","Fixed the dialogue prompt button being darkened","Fixed dialogue prompt button animation at 20 degree angle","Moved dialogue ui down over hearts, since they will be moved"]},
 {"date":"22-09-2024","contents":["Added option for gui scales 2/3 in dialogue","Properly aligned dialogue bars","Added button icons in dialogue controls prompt"]},
 {"date":"21-09-2024","contents":["Fixed tons of bugs","Dialogue system now works in updated version","Tested most gameplay elements that now work in updated version"]},
 {"date":"20-09-2024","contents":["Imported new textures","Added rupee pouch tiers","° With upgradable capacity for rupees","Added quiver","° Arrow and bow mechanic reworked","° Quiver tiers with upgradable capacity","° Switching between arrow types","° New textures"]},
